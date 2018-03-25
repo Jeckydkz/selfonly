@@ -1,4 +1,5 @@
 # DKZ PROTECTION
+# SB ONLY
 
 - pkg install python -y
 - pkg install git -y
@@ -15,6 +16,7 @@
 
 - cd sc yg mau di run ya. 
 
+- tx to TCR TEAM 
 - Salam santun
 - https://line.me/ti/p/~dekradakz
 
